@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/mohitsinha810/hello-Next/issues"
   },
-  "homepage": "https://github.com/mohitsinha810/hello-Next#readme"
+  "homepage": "https://github.com/mohitsinha810/hello-Next#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
 }
